@@ -23,6 +23,7 @@ But I think that is not quite the way GitHub works.
 GitHub seems extremely powerful, but I am working on getting comfortable with it.
 
 I plan to continue working through examples on GitHub, and generally messing around with it.
+I seem to be very slow at "getting it."
 
 Learning GitHub was NOT my goal coming into the class, but now, getting comfortable with it 
 certainly seems like a worthwile priority, even if it is not "coding" exactly.
